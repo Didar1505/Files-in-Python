@@ -1,0 +1,38 @@
+{
+  "recipes": [
+    {
+      "title": "Spaghetti Carbonara",
+      "cuisine": "Italian",
+      "servings": 4,
+      "ingredients": [
+        {"name": "Spaghetti", "quantity": "400g"},
+        {"name": "Guanciale", "quantity": "150g"},
+        {"name": "Eggs", "quantity": "4"},
+        {"name": "Pecorino Cheese", "quantity": "50g"},
+        {"name": "Black Pepper", "quantity": "to taste"}
+      ]
+    },
+    {
+      "title": "Chicken Curry",
+      "cuisine": "Indian",
+      "servings": 4,
+      "ingredients": [
+        {"name": "Chicken Breast", "quantity": "500g"},
+        {"name": "Onion", "quantity": "1"},
+        {"name": "Garlic", "quantity": "2 cloves"},
+        {"name": "Coconut Milk", "quantity": "400ml"},
+        {"name": "Curry Powder", "quantity": "2 tbsp"}
+      ]
+    },
+    {
+      "title": "Classic Omelette",
+      "cuisine": "French",
+      "servings": 1,
+      "ingredients": [
+        {"name": "Eggs", "quantity": "3"},
+        {"name": "Butter", "quantity": "1 tbsp"},
+        {"name": "Salt", "quantity": "pinch"}
+      ]
+    }
+  ]
+}

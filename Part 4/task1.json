@@ -1,0 +1,11 @@
+{
+  "username": "coder_jane",
+  "name": "Jane Doe",
+  "age": 28,
+  "is_active": true,
+  "courses": [
+    "Python Fundamentals",
+    "Web Development",
+    "Data Science Intro"
+  ]
+}
